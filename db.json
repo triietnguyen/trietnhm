@@ -1,44 +1,133 @@
 {
+  "categories": [
+    {
+      "id": 0,
+      "name": "Weekend Grand Buffet",
+      "image": "images/Men.webp",
+      "label": "New",
+      "price": "19.99",
+      "featured": true,
+      "description": "Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person "
+    },
+    {
+      "id": 1,
+      "name": "Weekend Grand Buffet",
+      "image": "images/Women.webp",
+      "label": "New",
+      "price": "19.99",
+      "featured": true,
+      "description": "Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person "
+    },
+    {
+      "id": 2,
+      "name": "Weekend Grand Buffet",
+      "image": "images/Kid.webp",
+      "label": "New",
+      "price": "19.99",
+      "featured": true,
+      "description": "Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person "
+    }
+  ],
   "dishes": [
     {
       "id": 0,
-      "name": "Uthappizza",
-      "image": "images/uthappizza.png",
+      "name": "Nike Air Max 90",
+      "image": "images/Recommend_1.webp",
       "category": "mains",
       "label": "Hot",
       "price": "4.99",
       "featured": true,
-      "description": "A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer."
+      "description": "Lace up and feel the legacy. Produced at the intersection of art, music and culture, this champion running shoe helped define the '90s. Worn by presidents, revolutionised through collabs and celebrated through rare colourways, its striking visuals, Waffle sole and exposed Nike Air cushioning keep it alive and well."
     },
     {
       "id": 1,
-      "name": "Zucchipakoda",
-      "image": "images/zucchipakoda.png",
+      "name": "Nike Air Trainer 1",
+      "image": "images/Recommend_2.webp",
       "category": "appetizer",
       "label": "",
       "price": "1.99",
       "featured": false,
-      "description": "Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce"
+      "description": "Where will you take your sneakers? Anywhere and everywhere? These essential shoes, just like the originals from '87, let you move across town without a glitch. With retro details you love like the forefoot strap and layered midsole, as well as a modern tricolour refresh, it keeps the legend alive and well."
     },
     {
       "id": 2,
-      "name": "Vadonut",
-      "image": "images/vadonut.png",
+      "name": "Air Jodan 1 Mid",
+      "image": "images/Recommend_3.webp",
       "category": "appetizer",
       "label": "New",
-      "price": "1.99",
+      "price": "4.99",
       "featured": false,
-      "description": "A quintessential ConFusion experience, is it a vada or is it a donut?"
+      "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colours and crisp leather give it a distinct identity."
     },
     {
       "id": 3,
-      "name": "ElaiCheese Cake",
-      "image": "images/elaicheesecake.png",
-      "category": "dessert",
-      "label": "",
-      "price": "2.99",
+      "name": "Air Max Plus",
+      "image": "images/Recommend_4.webp",
+      "category": "appetizer",
+      "label": "New",
+      "price": "9.99",
       "featured": false,
-      "description": "A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms"
+      "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colours and crisp leather give it a distinct identity."
+    },
+    {
+      "id": 4,
+      "name": "Waffle",
+      "image": "images/Recommend_5.webp",
+      "category": "appetizer",
+      "label": "New",
+      "price": "8.99",
+      "featured": false,
+      "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colours and crisp leather give it a distinct identity."
+    },
+    {
+      "id": 5,
+      "name": "Air Runner",
+      "image": "images/Recommend_6.webp",
+      "category": "appetizer",
+      "label": "New",
+      "price": "4.99",
+      "featured": false,
+      "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colours and crisp leather give it a distinct identity."
+    },
+    {
+      "id": 6,
+      "name": "Air Max Kid",
+      "image": "images/Recommend_7.webp",
+      "category": "appetizer",
+      "label": "New",
+      "price": "3.99",
+      "featured": false,
+      "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colours and crisp leather give it a distinct identity."
+    },
+    {
+      "id": 7,
+      "name": "Air Scout",
+      "image": "images/Recommend_8.webp",
+      "category": "appetizer",
+      "label": "New",
+      "price": "6.99",
+      "featured": false,
+      "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colours and crisp leather give it a distinct identity."
+    },
+    {
+      "id": 8,
+      "name": "Air Jodan 1 Mid Low",
+      "image": "images/Recommend_9.webp",
+      "category": "appetizer",
+      "label": "New",
+      "price": "7.99",
+      "featured": false,
+      "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colours and crisp leather give it a distinct identity."
+    },
+    {
+      "id": 9,
+      "name": "Air Runner",
+      "image": "images/Recommend_10.webp",
+      "category": "appetizer",
+      "label": "New",
+      "price": "3.99",
+      "featured": false,
+      "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colours and crisp leather give it a distinct identity."
     }
   ],
   "comments": [
@@ -206,19 +295,37 @@
   "promotions": [
     {
       "id": 0,
-      "name": "Weekend Grand Buffet",
-      "image": "images/buffet.png",
+      "name": "Men Clothes",
+      "image": "images/Men.webp",
       "label": "New",
       "price": "19.99",
       "featured": true,
-      "description": "Featuring mouthwatering combinations with a choice of five different salads, six enticing appetizers, six main entrees and five choicest desserts. Free flowing bubbly and soft drinks. All for just $19.99 per person "
+      "description": "If you're looking for the perfect blend of dynamic style and comfort, this men's sportswear ensemble is an irresistible choice. Crafted from flexible materials, the vibrant polo shirt and comfortable shorts not only highlight your athletic flair but also ensure you stand out in any activity. The meticulously designed shirt, adorned with an elegant brand logo, pairs seamlessly with the included sports shoes, providing both comfort and stability. Whether you're hitting the gym or simply embracing sporty fashion in your daily life, this outfit is the ideal companion."
+    },
+    {
+      "id": 1,
+      "name": "Women Clothes",
+      "image": "images/Women.webp",
+      "label": "New",
+      "price": "19.99",
+      "featured": true,
+      "description": "This women's sportswear ensemble is the epitome of comfort and style. The gentle pastel-colored tank top paired with stretchy leggings creates an elegant portrayal of dynamism. The breathable fabric ensures comfort throughout various activities. The fashion statement comes from the white sports shoes, highlighting a blend of femininity and modernity. You'll not only shine during your workouts but also turn heads as a fashion-forward presence on the street."
+    },
+    {
+      "id": 2,
+      "name": "Kid Clothes",
+      "image": "images/Kid.webp",
+      "label": "New",
+      "price": "19.99",
+      "featured": true,
+      "description": "This kids' sportswear ensemble brings joy and comfort to the energetic activities of the little ones. The vibrant colored t-shirt with cute illustrations paired with stretchy shorts creates a lively picture of fun. The lightweight and breathable fabric make it easy for children to move without feeling restricted. The adorable little sports shoes serve as the perfect accent, ensuring both comfort and a cute appearance. This outfit not only boosts the children's confidence during playtime but also represents a safe and stylish choice for the future generation."
     }
   ],
   "leaders": [
     {
       "id": 0,
       "name": "Peter Pan",
-      "image": "images/alberto.png",
+      "image": "images/Recommend_2.webp",
       "designation": "Chief Epicurious Officer",
       "abbr": "CEO",
       "featured": false,
@@ -227,7 +334,7 @@
     {
       "id": 1,
       "name": "Dhanasekaran Witherspoon",
-      "image": "images/alberto.png",
+      "image": "images/Recommend_2.webp",
       "designation": "Chief Food Officer",
       "abbr": "CFO",
       "featured": false,
@@ -236,7 +343,7 @@
     {
       "id": 2,
       "name": "Agumbe Tang",
-      "image": "images/alberto.png",
+      "image": "images/Recommend_2.webp",
       "designation": "Chief Taste Officer",
       "abbr": "CTO",
       "featured": false,
@@ -245,7 +352,7 @@
     {
       "id": 3,
       "name": "Alberto Somayya",
-      "image": "images/alberto.png",
+      "image": "images/Recommend_2.webp",
       "designation": "Executive Chef",
       "abbr": "EC",
       "featured": true,
