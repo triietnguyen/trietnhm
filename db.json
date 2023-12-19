@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "Weekend Grand Buffet",
-      "image": "images/Men.webp",
+      "image": "images/Men.png",
       "label": "New",
       "price": "19.99",
       "featured": true,
@@ -12,7 +12,7 @@
     {
       "id": 1,
       "name": "Weekend Grand Buffet",
-      "image": "images/Women.webp",
+      "image": "images/Women.png",
       "label": "New",
       "price": "19.99",
       "featured": true,
@@ -21,7 +21,7 @@
     {
       "id": 2,
       "name": "Weekend Grand Buffet",
-      "image": "images/Kid.webp",
+      "image": "images/Kid.png",
       "label": "New",
       "price": "19.99",
       "featured": true,
@@ -32,7 +32,7 @@
     {
       "id": 0,
       "name": "Nike Air Max 90",
-      "image": "images/Recommend_1.webp",
+      "image": "images/Recommend_1.png",
       "category": "mains",
       "label": "Hot",
       "price": "4.99",
@@ -42,7 +42,7 @@
     {
       "id": 1,
       "name": "Nike Air Trainer 1",
-      "image": "images/Recommend_2.webp",
+      "image": "images/Recommend_2.png",
       "category": "appetizer",
       "label": "",
       "price": "1.99",
@@ -52,7 +52,7 @@
     {
       "id": 2,
       "name": "Air Jodan 1 Mid",
-      "image": "images/Recommend_3.webp",
+      "image": "images/Recommend_3.png",
       "category": "appetizer",
       "label": "New",
       "price": "4.99",
@@ -62,7 +62,7 @@
     {
       "id": 3,
       "name": "Air Max Plus",
-      "image": "images/Recommend_4.webp",
+      "image": "images/Recommend_4.png",
       "category": "appetizer",
       "label": "New",
       "price": "9.99",
@@ -72,7 +72,7 @@
     {
       "id": 4,
       "name": "Waffle",
-      "image": "images/Recommend_5.webp",
+      "image": "images/Recommend_5.png",
       "category": "appetizer",
       "label": "New",
       "price": "8.99",
@@ -82,7 +82,7 @@
     {
       "id": 5,
       "name": "Air Runner",
-      "image": "images/Recommend_6.webp",
+      "image": "images/Recommend_6.png",
       "category": "appetizer",
       "label": "New",
       "price": "4.99",
@@ -92,7 +92,7 @@
     {
       "id": 6,
       "name": "Air Max Kid",
-      "image": "images/Recommend_7.webp",
+      "image": "images/Recommend_7.png",
       "category": "appetizer",
       "label": "New",
       "price": "3.99",
@@ -102,7 +102,7 @@
     {
       "id": 7,
       "name": "Air Scout",
-      "image": "images/Recommend_8.webp",
+      "image": "images/Recommend_8.png",
       "category": "appetizer",
       "label": "New",
       "price": "6.99",
@@ -112,7 +112,7 @@
     {
       "id": 8,
       "name": "Air Jodan 1 Mid Low",
-      "image": "images/Recommend_9.webp",
+      "image": "images/Recommend_9.png",
       "category": "appetizer",
       "label": "New",
       "price": "7.99",
@@ -122,7 +122,7 @@
     {
       "id": 9,
       "name": "Air Runner",
-      "image": "images/Recommend_10.webp",
+      "image": "images/Recommend_10.png",
       "category": "appetizer",
       "label": "New",
       "price": "3.99",
@@ -296,7 +296,7 @@
     {
       "id": 0,
       "name": "Men Clothes",
-      "image": "images/Men.webp",
+      "image": "images/Men.png",
       "label": "New",
       "price": "19.99",
       "featured": true,
@@ -305,7 +305,7 @@
     {
       "id": 1,
       "name": "Women Clothes",
-      "image": "images/Women.webp",
+      "image": "images/Women.png",
       "label": "New",
       "price": "19.99",
       "featured": true,
@@ -314,7 +314,7 @@
     {
       "id": 2,
       "name": "Kid Clothes",
-      "image": "images/Kid.webp",
+      "image": "images/Kid.png",
       "label": "New",
       "price": "19.99",
       "featured": true,
@@ -325,7 +325,7 @@
     {
       "id": 0,
       "name": "Peter Pan",
-      "image": "images/Recommend_2.webp",
+      "image": "images/Recommend_2.png",
       "designation": "Chief Epicurious Officer",
       "abbr": "CEO",
       "featured": false,
@@ -334,7 +334,7 @@
     {
       "id": 1,
       "name": "Dhanasekaran Witherspoon",
-      "image": "images/Recommend_2.webp",
+      "image": "images/Recommend_2.png",
       "designation": "Chief Food Officer",
       "abbr": "CFO",
       "featured": false,
@@ -343,7 +343,7 @@
     {
       "id": 2,
       "name": "Agumbe Tang",
-      "image": "images/Recommend_2.webp",
+      "image": "images/Recommend_2.png",
       "designation": "Chief Taste Officer",
       "abbr": "CTO",
       "featured": false,
@@ -352,7 +352,7 @@
     {
       "id": 3,
       "name": "Alberto Somayya",
-      "image": "images/Recommend_2.webp",
+      "image": "images/Recommend_2.png",
       "designation": "Executive Chef",
       "abbr": "EC",
       "featured": true,
